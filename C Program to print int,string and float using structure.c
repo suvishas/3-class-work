@@ -13,7 +13,7 @@ int main( ) {
 
    data.i = 86844;
    data.f = 2564.654;
-   strcpy( data.str, "ram");
+   strcpy( data.str, "suvisha");
 
    printf( "data.i : %d\n", data.i);
    printf( "data.f : %f\n", data.f);
